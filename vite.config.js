@@ -5,7 +5,7 @@ export default defineConfig({
     port: 5174,
     strictPort: true,
   },
-  base: './',
+  base: '/BaVuong24020008.github.io/',
   plugins: [
     {
       name: 'log-production-url',
